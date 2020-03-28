@@ -1,6 +1,6 @@
 # Relevance-Feedback #
 
-We will be working on[20newsgroup dataset](https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups)
+We will be working on [20newsgroup dataset](https://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups)
 This dataset consists of 20 folders containing 19,997 files in total.
 
 **Rocchio Algorithm** was the relevance feedback mechanism introduced in and populrized by Salton's SMART system around 1970.
@@ -38,3 +38,5 @@ desired by the user.
 generated based on user relevance feedback.
 6. For each of the iteration, **PR(Precision-Recall) curve** and **TNSE graph** is plotted.
 7. The **MAP(Mean Average Precision) value** for each iteration is reported.
+
+NOTE: This assignment was completed as a part of the course Information Retrieval.
